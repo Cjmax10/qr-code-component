@@ -21,8 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github code](https://github.com/Cjmax10/qr-code-component)
+- Live Site URL: [Live Site](https://cjmax10.github.io/qr-code-component/)
 
 ## My process
 
@@ -42,5 +42,5 @@ Further focus would be web accessibility.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [Portfolio](https://cjmax10.github.io/Portfolio/)
+- Frontend Mentor - [@Cjmax10](https://www.frontendmentor.io/profile/Cjmax10)
